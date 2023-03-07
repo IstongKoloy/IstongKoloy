@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IstongKoloy
+- 👋 Hi, I’m Glenn Andaleon
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java language
+- 🎓 I’m recently graduated at KodeGo bootcamp as a Full Stack Development
 - 📫 How to reach me? email me at andaleon34@gmail.com
 
 <!---

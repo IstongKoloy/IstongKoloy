@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Glenn Andaleon
 - 👀 I’m interested in programming.
-- 🎓 I recently graduated at KodeGo bootcamp as a Full Stack Development
+- 🎓 I recently graduated at KodeGo bootcamp as a Full Stack Developer
 - 📫 How to reach me? email me at andaleon34@gmail.com
 
 <!---
